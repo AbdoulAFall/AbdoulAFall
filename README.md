@@ -2,7 +2,7 @@
 
 I'm a Junior DevOps engineer 
 
-I'm currently based in Paris
+:round_pushpin: I'm currently based in Paris
 
 <!--
 **AbdoulAFall/AbdoulAFall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
