@@ -1,7 +1,8 @@
 ### Hi there 👋, Nice to see you 
 
-I'm Abdoul FALL 
-:hugs: :computer:I'm a Junior DevOps engineer 
+Welcome to my page !
+I'm Abdoul 
+:computer:I'm a Junior DevOps engineer 
 
 :round_pushpin: I'm currently living in Paris
 
