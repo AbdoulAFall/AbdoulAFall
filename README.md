@@ -1,8 +1,9 @@
-### Hi there 👋, I'm Abdoul FALL 
+### Hi there 👋, Nice to see you 
 
+I'm Abdoul FALL 
 :hugs: :computer:I'm a Junior DevOps engineer 
 
-:round_pushpin: I'm currently based in Paris
+:round_pushpin: I'm currently living in Paris
 
 ## Connect with Me
 
