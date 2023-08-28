@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Abdoul FALL 
 
-I'm a Junior DevOps engineer 
+:hugs: :computer:I'm a Junior DevOps engineer 
 
 :round_pushpin: I'm currently based in Paris
 
