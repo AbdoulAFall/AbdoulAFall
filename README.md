@@ -11,6 +11,27 @@ I'm Abdoul
 
 ### My tech stack 
 
+<p align="right">
+  <h3><i>Hosting providers:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>GCP
+    </td> 
+  </tr>
+</table>
+<p>
+
+
 #### Hosting providers:
 <div align="center">
   <div style="border: 1px solid #ccc; padding: 10px; display: inline-block;">
