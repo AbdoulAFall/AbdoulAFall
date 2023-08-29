@@ -11,18 +11,6 @@ I'm Abdoul
 
 ### :rocket: Some Tools I use 
 
-<div align="left">
-  Devops tools:
-  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/>
-  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg"/>
-  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"/>
-  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg"/>
-  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg"/>
-  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ansible.svg"/>
-</div>
-
-
-
 <p align="right">
   <h3><i>Hosting providers:</i></h3>
   <table>
