@@ -11,7 +11,9 @@ I'm Abdoul
 
 ### :rocket: Some Tools I use 
 
-<div align="center">
+
+Hosting providers:
+<div align="left">
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
 </div>
