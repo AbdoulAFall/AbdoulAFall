@@ -9,7 +9,7 @@ I'm Abdoul
 
 :seedling:I'm currently imporving my kubernetes knowledge in order to get my CKA 
 
-### :rocket: Some tools I use 
+### :rocket: Some Tools I use 
 
 <div align="center">
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
