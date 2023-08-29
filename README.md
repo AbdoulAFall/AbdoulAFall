@@ -9,79 +9,94 @@ I'm Abdoul
 
 :seedling:I'm currently imporving my kubernetes knowledge in order to get my CKA 
 
+<style>
+  .badge-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  
+  .badge {
+    text-align: center;
+    margin: 15px;
+  }
+</style>
+
 ### My tech stack 
 
 #### Hosting providers:
-<div align="center">
-  <div>
+<div class="badge-container">
+  <div class="badge">
     <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
     <p>AWS</p>
   </div>
-  <div>
+  <div class="badge">
     <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
     <p>Google Cloud</p>
   </div>
 </div>
 
 #### Languages:
-<div align="center">
-  <div>
+<div class="badge-container">
+  <div class="badge">
     <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yaml.svg"/>
     <p>YAML</p>
   </div>
-  <div>
+  <div class="badge">
     <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg"/>
     <p>Bash</p>
   </div>
 </div>
 
 #### Operating Systems:
-<div align="center">
-  <div>
+<div class="badge-container">
+  <div class="badge">
     <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg"/>
     <p>Debian</p>
   </div>
-  <div>
+  <div class="badge">
     <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/centos.svg"/>
     <p>CentOS</p>
   </div>
-  <div>
+  <div class="badge">
     <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg"/>
     <p>Ubuntu</p>
   </div>
-  <div>
+  <div class="badge">
     <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/windows.svg"/>
     <p>Windows</p>
   </div>
 </div>
 
 #### Devops tools 
-<div align="center">
-  <div>
+<div class="badge-container">
+  <div class="badge">
     <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/>
     <p>Docker</p>
   </div>
-  <div>
+  <div class="badge">
     <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg"/>
     <p>Kubernetes</p>
   </div>
-  <div>
+  <div class="badge">
     <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"/>
     <p>Jenkins</p>
   </div>
-  <div>
+  <div class="badge">
     <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg"/>
     <p>GitLab</p>
   </div>
-  <div>
+  <div class="badge">
     <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg"/>
     <p>Terraform</p>
   </div>
-  <div>
+  <div class="badge">
     <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ansible.svg"/>
     <p>Ansible</p>
   </div>
 </div>
+
 
 ## Connect with Me
 
