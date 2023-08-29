@@ -12,66 +12,98 @@ I'm Abdoul
 ### My tech stack 
 
 #### Hosting providers:
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: center; margin: 0 20px;">
-    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
-    <br>
-    <p>AWS</p>
-  </div>
-  <div style="text-align: center; margin: 0 20px;">
-    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
-    <br>
-    <p>Google Cloud</p>
+<div align="center">
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+    <div style="text-align: center; margin: 0 20px;">
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
+      <br>
+      <p>AWS</p>
+    </div>
+    <div style="text-align: center; margin: 0 20px;">
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
+      <br>
+      <p>Google Cloud</p>
+    </div>
   </div>
 </div>
 
 #### Languages:
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: center; margin: 0 20px;">
-    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yaml.svg"/>
-    <br>
-    <p>YAML</p>
-  </div>
-  <div style="text-align: center; margin: 0 20px;">
-    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg"/>
-    <br>
-    <p>Bash</p>
+<div align="center">
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+    <div style="text-align: center; margin: 0 20px;">
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yaml.svg"/>
+      <br>
+      <p>YAML</p>
+    </div>
+    <div style="text-align: center; margin: 0 20px;">
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg"/>
+      <br>
+      <p>Bash</p>
+    </div>
   </div>
 </div>
 
 #### Operating Systems:
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: center; margin: 0 20px;">
-    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg"/>
-    <br>
-    <p>Debian</p>
-  </div>
-  <div style="text-align: center; margin: 0 20px;">
-    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/centos.svg"/>
-    <br>
-    <p>CentOS</p>
-  </div>
-  <div style="text-align: center; margin: 0 20px;">
-    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg"/>
-    <br>
-    <p>Ubuntu</p>
-  </div>
-  <div style="text-align: center; margin: 0 20px;">
-    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/windows.svg"/>
-    <br>
-    <p>Windows</p>
+<div align="center">
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+    <div style="text-align: center; margin: 0 20px;">
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg"/>
+      <br>
+      <p>Debian</p>
+    </div>
+    <div style="text-align: center; margin: 0 20px;">
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/centos.svg"/>
+      <br>
+      <p>CentOS</p>
+    </div>
+    <div style="text-align: center; margin: 0 20px;">
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg"/>
+      <br>
+      <p>Ubuntu</p>
+    </div>
+    <div style="text-align: center; margin: 0 20px;">
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-windows-icon.svg"/>
+      <br>
+      <p>Windows</p>
+    </div>
   </div>
 </div>
 
 #### Devops tools 
-<div style="display: flex; justify-content: center;">
-  <div style="text-align: center; margin: 0 20px;">
-    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/>
-    <br>
-    <p>Docker</p>
+<div align="center">
+  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+    <div style="text-align: center; margin: 0 20px;">
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/>
+      <br>
+      <p>Docker</p>
+    </div>
+    <div style="text-align: center; margin: 0 20px;">
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg"/>
+      <br>
+      <p>Kubernetes</p>
+    </div>
+    <div style="text-align: center; margin: 0 20px;">
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"/>
+      <br>
+      <p>Jenkins</p>
+    </div>
+    <div style="text-align: center; margin: 0 20px;">
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg"/>
+      <br>
+      <p>GitLab</p>
+    </div>
+    <div style="text-align: center; margin: 0 20px;">
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg"/>
+      <br>
+      <p>Terraform</p>
+    </div>
+    <div style="text-align: center; margin: 0 20px;">
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ansible.svg"/>
+      <br>
+      <p>Ansible</p>
+    </div>
   </div>
-  <div style="text-align: center; margin: 0 20px;">
-    <img
+</div>
 
 
 ## Connect with Me
