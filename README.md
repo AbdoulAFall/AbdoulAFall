@@ -12,29 +12,6 @@ I'm Abdoul
 ### :rocket: Some Tools I use 
 
 <div align="left">
-  Hosting providers:
-  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
-  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
-</div>
-
-
-<div align="left">
-  Languages:
-  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yaml.svg"/>
-  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg"/>
-</div>
-
-
-<div align="left">
-  Operating Systems:
-  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg"/>
-  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/centos.svg"/>
-  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg"/>
-  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg"/>
-</div>
-
-
-<div align="left">
   Devops tools:
   <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/>
   <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg"/>
