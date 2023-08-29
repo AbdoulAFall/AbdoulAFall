@@ -25,9 +25,18 @@ I'm Abdoul
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
 </div>
 
+<div align="left">
+  Operating Systems:
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
+</div>
+<div align="left">
+  Devops tools:
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
+</div>
 
-Operating Systems:
-Devops tools:
+
 
 <p align="right">
   <h3><i>Hosting providers:</i></h3>
