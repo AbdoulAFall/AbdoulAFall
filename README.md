@@ -9,6 +9,9 @@ I'm Abdoul
 
 :seedling:I'm currently imporving my kubernetes knowledge in order to get my CKA 
 
+## My tech stack 
+
+<div align="center"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/></div>
 
 ## Connect with Me
 
