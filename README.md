@@ -13,17 +13,22 @@ I'm Abdoul
 
 <p align="right">
   <h3><i>Hosting providers:</i></h3>
- 
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
       <a href="my-tech-stacks">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
-
+    </td>
+    <td align="center" width="110">
       <a href="my-tech-stacks">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg" width="48" height="48" alt="GCP" />
       </a>
       <br>GCP
-
+    </td> 
+  </tr>
+</table>
 <p>
 
 <p align="right">
