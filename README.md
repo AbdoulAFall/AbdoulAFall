@@ -16,13 +16,13 @@ I'm Abdoul
   <table>
   <tr border: none;>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
+      <a href="my-tech-stacks">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
     <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
+      <a href="my-tech-stacks">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg" width="48" height="48" alt="GCP" />
       </a>
       <br>GCP
@@ -31,95 +31,101 @@ I'm Abdoul
 </table>
 <p>
 
+<p align="right">
+  <h3><i>Languages:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yaml.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>GCP
+    </td> 
+  </tr>
+</table>
+<p>
 
-#### Hosting providers:
-<div align="center">
-  <div style="border: 1px solid #ccc; padding: 10px; display: inline-block;">
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <div style="text-align: center; margin: 0 20px;">
-        <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
-        <p>AWS</p>
-      </div>
-      <div style="text-align: center; margin: 0 20px;">
-        <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
-        <p>Google Cloud</p>
-      </div>
-    </div>
-  </div>
-</div>
+<p align="right">
+  <h3><i>Operating Systems:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>Debian
+    </td>
+    <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/centos.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>CentOS
+    </td> 
+     <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>Ubuntu
+    </td> 
+     <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/windows.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>Windows
+    </td> 
+  </tr>
+</table>
+<p>
 
-#### Languages:
-<div align="center">
-  <div style="border: 1px solid #ccc; padding: 10px; display: inline-block;">
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <div style="text-align: center; margin: 0 20px;">
-        <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yaml.svg"/>
-        <p>YAML</p>
-      </div>
-      <div style="text-align: center; margin: 0 20px;">
-        <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg"/>
-        <p>Bash</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-#### Operating Systems:
-<div align="center">
-  <div style="border: 1px solid #ccc; padding: 10px; display: inline-block;">
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <div style="text-align: center; margin: 0 20px;">
-        <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg"/>
-        <p>Debian</p>
-      </div>
-      <div style="text-align: center; margin: 0 20px;">
-        <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/centos.svg"/>
-        <p>CentOS</p>
-      </div>
-      <div style="text-align: center; margin: 0 20px;">
-        <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg"/>
-        <p>Ubuntu</p>
-      </div>
-      <div style="text-align: center; margin: 0 20px;">
-        <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/windows.svg"/>
-        <p>Windows</p>
-      </div>
-    </div>
-  </div>
-</div>
-
-#### Devops tools 
-<div align="center">
-  <div style="border: 1px solid #ccc; padding: 10px; display: inline-block;">
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <div style="text-align: center; margin: 0 20px;">
-        <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/>
-        <p>Docker</p>
-      </div>
-      <div style="text-align: center; margin: 0 20px;">
-        <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg"/>
-        <p>Kubernetes</p>
-      </div>
-      <div style="text-align: center; margin: 0 20px;">
-        <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"/>
-        <p>Jenkins</p>
-      </div>
-      <div style="text-align: center; margin: 0 20px;">
-        <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg"/>
-        <p>GitLab</p>
-      </div>
-      <div style="text-align: center; margin: 0 20px;">
-        <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg"/>
-        <p>Terraform</p>
-      </div>
-      <div style="text-align: center; margin: 0 20px;">
-        <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ansible.svg"/>
-        <p>Ansible</p>
-      </div>
-    </div>
-  </div>
-</div>
-
+<p align="right">
+  <h3><i>Devops tools:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>kubernetes
+    </td> 
+     <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>Jenkins
+    </td> 
+     <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>Gitlab
+    </td> 
+   <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>Terraform
+    </td> 
+    <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ansible.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>Ansible
+    </td> 
+  </tr>
+</table>
+<p>
 
 ## Connect with Me
 
