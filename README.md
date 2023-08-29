@@ -15,25 +15,31 @@ I'm Abdoul
 
 <div align="left">
   Hosting providers:
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
 </div>
 
 <div align="left">
   Languages:
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yaml.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg"/>
 </div>
 
 <div align="left">
   Operating Systems:
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/centos.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg"/>
 </div>
 <div align="left">
   Devops tools:
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg"/>
+  <img width="45" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ansible.svg"/>
 </div>
 
 
