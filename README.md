@@ -5,7 +5,7 @@ I'm Abdoul
 
 :computer:I'm a Junior DevOps engineer 
 
-:round_pushpin: I'm currently living in Paris
+:round_pushpin:I'm currently living in Paris
 
 :seedling:I'm currently imporving my kubernetes knowledge in order to get my CKA 
 
