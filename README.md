@@ -13,7 +13,7 @@ I'm Abdoul
 
 #### Hosting providers:
 <div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+  <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
       <br>
@@ -29,7 +29,7 @@ I'm Abdoul
 
 #### Languages:
 <div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+  <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yaml.svg"/>
       <br>
@@ -45,7 +45,7 @@ I'm Abdoul
 
 #### Operating Systems:
 <div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+  <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg"/>
       <br>
@@ -62,7 +62,7 @@ I'm Abdoul
       <p>Ubuntu</p>
     </div>
     <div style="text-align: center; margin: 0 20px;">
-      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/microsoft-windows-icon.svg"/>
+      <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/windows.svg"/>
       <br>
       <p>Windows</p>
     </div>
@@ -71,7 +71,7 @@ I'm Abdoul
 
 #### Devops tools 
 <div align="center">
-  <div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+  <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/>
       <br>
