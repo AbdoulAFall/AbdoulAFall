@@ -14,22 +14,21 @@ I'm Abdoul
 #### Hosting providers:
 <div align="center">
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gcp.svg"/>
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
 </div>
 
 #### Languages:
 <div align="center">
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yaml.svg"/>
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg"/>
-  
 </div>
+
 #### Operating Systems:
 <div align="center">
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg"/>
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/centos.svg"/>
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg"/>
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/windows.svg"/>
-
 </div>
 
 #### Devops tools 
@@ -41,7 +40,6 @@ I'm Abdoul
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg"/>
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ansible.svg"/>
 </div>
-
 
 ## Connect with Me
 
