@@ -14,12 +14,17 @@ I'm Abdoul
 
 
 <div align="left">
-  #### Hosting providers:
+  Hosting providers:
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
 </div>
 
-Languages:
+<div align="left">
+  Languages:
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
+</div>
+
 
 Operating Systems:
 Devops tools:
