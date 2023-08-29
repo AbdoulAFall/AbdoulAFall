@@ -16,12 +16,10 @@ I'm Abdoul
   <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
-      <br>
       <p>AWS</p>
     </div>
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
-      <br>
       <p>Google Cloud</p>
     </div>
   </div>
@@ -32,12 +30,10 @@ I'm Abdoul
   <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yaml.svg"/>
-      <br>
       <p>YAML</p>
     </div>
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg"/>
-      <br>
       <p>Bash</p>
     </div>
   </div>
@@ -48,22 +44,18 @@ I'm Abdoul
   <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg"/>
-      <br>
       <p>Debian</p>
     </div>
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/centos.svg"/>
-      <br>
       <p>CentOS</p>
     </div>
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg"/>
-      <br>
       <p>Ubuntu</p>
     </div>
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/windows.svg"/>
-      <br>
       <p>Windows</p>
     </div>
   </div>
@@ -74,32 +66,26 @@ I'm Abdoul
   <div style="display: flex; justify-content: center;">
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/>
-      <br>
       <p>Docker</p>
     </div>
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg"/>
-      <br>
       <p>Kubernetes</p>
     </div>
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"/>
-      <br>
       <p>Jenkins</p>
     </div>
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg"/>
-      <br>
       <p>GitLab</p>
     </div>
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg"/>
-      <br>
       <p>Terraform</p>
     </div>
     <div style="text-align: center; margin: 0 20px;">
       <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ansible.svg"/>
-      <br>
       <p>Ansible</p>
     </div>
   </div>
