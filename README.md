@@ -7,11 +7,17 @@ I'm Abdoul
 
 :round_pushpin: I'm currently living in Paris
 
+:seedling:I'm currently imporving my kubernetes knowledge in order to get my CKA 
+
+
 ## Connect with Me
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/aafall/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:abdoul@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=email&logoColor=white" alt="Email Badge"/>
   </a>
 </div>
 <!--
