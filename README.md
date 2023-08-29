@@ -13,32 +13,74 @@ I'm Abdoul
 
 #### Hosting providers:
 <div align="center">
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
+  <div>
+    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
+    <p>AWS</p>
+  </div>
+  <div>
+    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/google-cloud.svg"/>
+    <p>Google Cloud</p>
+  </div>
 </div>
 
 #### Languages:
 <div align="center">
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yaml.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg"/>
+  <div>
+    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yaml.svg"/>
+    <p>YAML</p>
+  </div>
+  <div>
+    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg"/>
+    <p>Bash</p>
+  </div>
 </div>
 
 #### Operating Systems:
 <div align="center">
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/centos.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/windows.svg"/>
+  <div>
+    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg"/>
+    <p>Debian</p>
+  </div>
+  <div>
+    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/centos.svg"/>
+    <p>CentOS</p>
+  </div>
+  <div>
+    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg"/>
+    <p>Ubuntu</p>
+  </div>
+  <div>
+    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/windows.svg"/>
+    <p>Windows</p>
+  </div>
 </div>
 
 #### Devops tools 
 <div align="center">
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg"/>
-  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ansible.svg"/>
+  <div>
+    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/>
+    <p>Docker</p>
+  </div>
+  <div>
+    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg"/>
+    <p>Kubernetes</p>
+  </div>
+  <div>
+    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"/>
+    <p>Jenkins</p>
+  </div>
+  <div>
+    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg"/>
+    <p>GitLab</p>
+  </div>
+  <div>
+    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg"/>
+    <p>Terraform</p>
+  </div>
+  <div>
+    <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ansible.svg"/>
+    <p>Ansible</p>
+  </div>
 </div>
 
 ## Connect with Me
