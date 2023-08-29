@@ -12,7 +12,7 @@ I'm Abdoul
 ### :rocket: Some Tools I use 
 
 <p align="right">
-  <h3><i>Hosting providers:</i></h3>
+  <h5><i>Hosting providers:</i></h5>
   <table>
   <tr border: none;>
     <td align="center" width="110">
@@ -32,7 +32,7 @@ I'm Abdoul
 <p>
 
 <p align="right">
-  <h3><i>Languages:</i></h3>
+  <h5><i>Languages:</i></h5>
   <table>
   <tr border: none;>
     <td align="center" width="110">
@@ -52,7 +52,7 @@ I'm Abdoul
 <p>
 
 <p align="right">
-  <h3><i>Operating Systems:</i></h3>
+  <h5><i>Operating Systems:</i></h5>
   <table>
   <tr border: none;>
     <td align="center" width="110">
@@ -84,7 +84,7 @@ I'm Abdoul
 <p>
 
 <p align="right">
-  <h3><i>Devops tools:</i></h3>
+  <h5><i>Devops tools:</i></h5>
   <table>
   <tr border: none;>
     <td align="center" width="110">
