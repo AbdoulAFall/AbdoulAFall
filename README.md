@@ -15,6 +15,12 @@ I'm Abdoul
 <div align="center">
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/>
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg"/>
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg"/>
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg"/>
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg"/>
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ansible.svg"/>
+
+
 </div>
 
 
