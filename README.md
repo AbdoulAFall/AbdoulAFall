@@ -1,4 +1,4 @@
-### Hi there 👋, Nice to see you 
+## Hi there 👋, Nice to see you 
 
 Welcome to my page !
 I'm Abdoul 
@@ -9,7 +9,28 @@ I'm Abdoul
 
 :seedling:I'm currently imporving my kubernetes knowledge in order to get my CKA 
 
-## My tech stack 
+### My tech stack 
+
+#### Hosting providers:
+<div align="center">
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/aws.svg"/>
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gcp.svg"/>
+</div>
+
+#### Languages:
+<div align="center">
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yaml.svg"/>
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg"/>
+  
+</div>
+#### Operating Systems:
+<div align="center">
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/debian.svg"/>
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/centos.svg"/>
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg"/>
+  <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/windows.svg"/>
+
+</div>
 
 #### Devops tools 
 <div align="center">
@@ -19,8 +40,6 @@ I'm Abdoul
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg"/>
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/terraform.svg"/>
   <img width="75" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ansible.svg"/>
-
-
 </div>
 
 
