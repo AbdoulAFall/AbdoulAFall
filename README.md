@@ -11,7 +11,8 @@ I'm Abdoul
 
 ## My tech stack 
 
-<div align="center"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/></div>
+
+<div align="center"><img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg"/></div>
 
 ## Connect with Me
 
