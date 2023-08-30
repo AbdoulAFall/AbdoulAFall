@@ -105,6 +105,36 @@ I'm Abdoul
     </td> 
   </tr>
 </table>
+
+<table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>git
+    </td> 
+     <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>vagrant
+    </td> 
+     <td align="center" width="110">
+      <a href="my-tech-stacks">
+        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg" width="48" height="48" alt="GCP" />
+      </a>
+      <br>vs code
+    </td> 
+   
+  </tr>
+</table>
 <p>
 
 ## Connect with Me
