@@ -19,13 +19,13 @@ I'm Abdoul
       <a href="my-tech-stacks">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/yaml.svg" width="48" height="48" alt="AWS" />
       </a>
-      <br>AWS
+      <br>YAML
     </td>
     <td align="center" width="110">
       <a href="my-tech-stacks">
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bash.svg" width="48" height="48" alt="GCP" />
       </a>
-      <br>GCP
+      <br>BASH
     </td> 
   </tr>
 </table>
@@ -52,12 +52,6 @@ I'm Abdoul
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/ubuntu.svg" width="48" height="48" alt="GCP" />
       </a>
       <br>Ubuntu
-    </td> 
-     <td align="center" width="110">
-      <a href="my-tech-stacks">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/windows.svg" width="48" height="48" alt="GCP" />
-      </a>
-      <br>Windows
     </td> 
   </tr>
 </table>
@@ -106,35 +100,6 @@ I'm Abdoul
   </tr>
 </table>
 
-<table>
-  <tr border: none;>
-    <td align="center" width="110">
-      <a href="my-tech-stacks">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/docker.svg" width="48" height="48" alt="AWS" />
-      </a>
-      <br>Docker
-    </td>
-    <td align="center" width="110">
-      <a href="my-tech-stacks">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/kubernetes.svg" width="48" height="48" alt="GCP" />
-      </a>
-      <br>git
-    </td> 
-     <td align="center" width="110">
-      <a href="my-tech-stacks">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/jenkins.svg" width="48" height="48" alt="GCP" />
-      </a>
-      <br>vagrant
-    </td> 
-     <td align="center" width="110">
-      <a href="my-tech-stacks">
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gitlab.svg" width="48" height="48" alt="GCP" />
-      </a>
-      <br>vs code
-    </td> 
-   
-  </tr>
-</table>
 <p>
 
 ## Connect with Me
